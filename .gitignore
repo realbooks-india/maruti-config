@@ -1,0 +1,21 @@
+# ignoring static files
+static
+
+# ignore gunicorn
+# gunicorn.conf.py
+
+# ignoring python generated files 
+*.pyc
+*.ipynb_checkpoints
+Pipfile.lock
+
+# ignoring mac files
+*.DS_Store
+
+# ignoring vscode specific files
+*.vscode
+
+# ignore ssh key files
+task_rsa
+task_rsa.pub
+
