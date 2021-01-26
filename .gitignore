@@ -3,6 +3,7 @@ static
 
 # ignore gunicorn
 # gunicorn.conf.py
+config.py
 
 # ignoring python generated files 
 *.pyc
